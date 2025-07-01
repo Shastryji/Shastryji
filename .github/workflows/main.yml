@@ -7,11 +7,13 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    permissions: # Add this block to grant permissions
+      contents: write # Grant write permission to the workflow
     steps:
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
-        with: # This 'with' keyword needs to be at the same indentation level as 'uses' and 'id'
+        with:
           github_user_name: Shastryji
           svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3
