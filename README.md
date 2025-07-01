@@ -2,7 +2,7 @@
   <h1>Hey there! I'm Shivam Shastry �</h1>
   <p>Software Engineer passionate about crafting innovative web solutions.</p>
 
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP50S/giphy.gif" alt="Coding GIF" width="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR1NXRxd2Rhd2s5a3o5bjR2ZjRyYmZobmxrbXo0djg2azg1dzl6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif" alt="code" width="200"/>
 
   <p>
     <a href="https://www.linkedin.com/in/shivamshastry" target="_blank">
@@ -18,135 +18,34 @@
 
 <h2 align="center">About Me �</h2>
 <p align="center">
-  A highly motivated Software Engineer with a strong passion for creating innovative solutions. [cite_start]I bring robust problem-solving skills and a keen eye for optimizing performance, eager to contribute to dynamic development teams and drive excellence in software engineering. [cite: 4]
-</p>
-<p align="center">
-  Currently, I'm a Senior System Engineer at Infosys, where I focus on developing responsive web interfaces and integrating robust backend solutions. [cite_start]My work has significantly boosted user engagement and reduced API response times. [cite: 14, 16, 18]
+  A highly motivated Software Engineer with a strong passion for creating innovative solutions. I bring robust problem-solving skills and a keen eye for optimizing performance, eager to contribute to dynamic development teams and drive excellence in software engineering.
 </p>
 
----
-
-<h2 align="center">Tools & Technologies �</h2>
-<div align="center">
-  <p>My toolkit for building awesome applications:</p>
-  <br>
-  <h3>Frontend</h3>
-  <div>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-    <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </div>
-  <br>
-  <h3>Backend</h3>
-  <div>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Zod-3672d6?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
-    <img src="https://img.shields.io/badge/Session_Cookies-232F3E?style=for-the-badge&logoColor=white" alt="Session Cookies"/>
-  </div>
-  <br>
-  <h3>Software & Tools</h3>
-  <div>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-    <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2"/>
-    <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS S3"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </div>
-  <br>
-  <h3>Security</h3>
-  <div>
-    <img src="https://img.shields.io/badge/HTTPS-4CAF50?style=for-the-badge&logo=nginx&logoColor=white" alt="HTTPS"/>
-    <img src="https://img.shields.io/badge/OKTA-000000?style=for-the-badge&logo=okta&logoColor=white" alt="OKTA"/>
-    <img src="https://img.shields.io/badge/OIDC-000000?style=for-the-badge&logo=openid&logoColor=white" alt="OIDC"/>
-  </div>
-</div>
 
 ---
 
-<h2 align="center">Work Experience �</h2>
-<div align="center">
-  <h3>Senior System Engineer @ Infosys, Bangalore</h3>
-  [cite_start]<p><em>Sep 2021 - Present</em> [cite: 15]</p>
-  <ul>
-    [cite_start]<li>Developed responsive web interfaces using React, HTML5, CSS3, and JavaScript, boosting user engagement by 32% through intuitive, mobile-first designs. [cite: 16]</li>
-    [cite_start]<li>Optimized frontend performance with React Query and Redux, reducing rendering time by 21% and enhancing application responsiveness. [cite: 17]</li>
-    [cite_start]<li>Integrated RESTful APIs with Node.js and Express.js, cutting API response times by 27% for seamless frontend-backend communication. [cite: 18]</li>
-    [cite_start]<li>Collaborated with UX/UI designers to implement wireframes into accessible, user-friendly interfaces aligned with cybersecurity product requirements. [cite: 19]</li>
-  </ul>
-  <br>
-  <h3>MEAN Developer - Intern @ Infosys Limited, Remote</h3>
-  [cite_start]<p><em>Jan 2021 - March 2021</em> [cite: 35]</p>
-  <ul>
-    [cite_start]<li>Developed a responsive landing page for an E-commerce platform using JavaScript, CSS, and Bootstrap, showcasing live product images. [cite: 36]</li>
-    [cite_start]<li>Gained hands-on experience in full-stack development, specializing in the MERN stack and modern web development practices. [cite: 37]</li>
-  </ul>
-</div>
+## � Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shastryji/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivam1234shastry@gmail.com) 
+
+# � Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# � GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shastryji&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shastryji&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shastryji&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## � GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shastryji&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### � Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shastryji&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Shastryji&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">Projects �</h2>
-<div align="center">
-  <h3>ITAF Deployment for CSG Client | Infosys Internal Project</h3>
-  [cite_start]<p><em>Aug 2023 - Present</em> [cite: 22]</p>
-  <ul>
-    [cite_start]<li>Deployed the Infosys Testing and Automation Framework (ITAF) on Google Cloud for the Cloud Security Group (CSG) client, enhancing their testing capabilities. [cite: 23]</li>
-    [cite_start]<li>Secured the deployment by implementing HTTPS with certificates and integrating OKTA authentication using OIDC for secure access control. [cite: 24]</li>
-    [cite_start]<li>Installed and configured Kubernetes on a Rocky Linux bare metal server, applying YAML configurations to manage containerized applications. [cite: 26]</li>
-  </ul>
-  <br>
-  <h3>Enhanced User Authentication and Permissions for SMAX | Chemical Industry Client</h3>
-  [cite_start]<p><em>Sep 2021 - July 2023</em> [cite: 28]</p>
-  <ul>
-    [cite_start]<li>Developed a new feature for SMAX, enabling secure user and organizational-level sign-ins with distinct permission sets using React.js and JavaScript (ES6+). [cite: 29]</li>
-    [cite_start]<li>Optimized performance with efficient React component design, achieving a 17% reduction in load times. [cite: 30]</li>
-    [cite_start]<li>Built a responsive, component-based UI, improving mobile user adoption by 23% and ensuring cross-device compatibility. [cite: 31]</li>
-    [cite_start]<li>Implemented JWT and OAuth for secure authentication, aligning with cybersecurity standards and enhancing access control. [cite: 33]</li>
-  </ul>
-</div>
-
----
-
-<h2 align="center">Education & Leadership �</h2>
-<div align="center">
-  <h3>B. Tech in Computer Science Engineering</h3>
-  <p><strong>PSIT College Of Engineering</strong> | [cite_start]CGPA-8.2 [cite: 11]</p>
-  [cite_start]<p><em>2021</em> [cite: 11]</p>
-  <br>
-  <h3>Extra-Curricular Activities</h3>
-  <ul>
-    [cite_start]<li>Founder of Student Council in PSIT College and President of the Sports club. [cite: 39]</li>
-    [cite_start]<li>Core Team Member of "Automation Group," an Infosys internal team that works on creating innovative tools. [cite: 40]</li>
-  </ul>
-</div>
-
----
-
-<h2 align="center">My GitHub Stats �</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamShastry&show_icons=true&theme=radical&hide_border=true" alt="Shivam's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamShastry&layout=compact&theme=radical&hide_border=true" alt="Shivam's Top Languages"/>
-  <br>
-  <img src="https://github-streak-stats.demolab.com/?user=ShivamShastry&theme=radical&hide_border=true" alt="Shivam's GitHub Streak"/>
-</div>
-
-<br>
-
-<h2 align="center">My GitHub Contribution Snake �</h2>
-<div align="center">
-  <img src="https://github.com/ShivamShastry/ShivamShastry/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</div>
-
----
 
 <h2 align="center">Let's Connect! �</h2>
 <div align="center">
@@ -159,4 +58,4 @@
   </a>
 </div>
 
----s
+---
