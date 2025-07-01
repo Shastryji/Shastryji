@@ -110,7 +110,4 @@
 
 ---
 
-## � Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Shastryji/Shastryji/output/github-contribution-grid-snake.svg)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=Shastryji&color=blueviolet)
